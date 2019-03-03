@@ -202,8 +202,7 @@ body {
     height: 200px;
   }
   
-  input[type=submit] {
-    padding: 10px 30px;
+  input[type=submit]{
     font-size: 18px;
     color: #ffffff;
     cursor: pointer;
@@ -285,6 +284,12 @@ body {
     
     header {
         position: static;
+    }
+    
+    .work {
+      width: 80%;
+      position: relative;
+      left: 10%;
     }
     
     }
